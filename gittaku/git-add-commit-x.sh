@@ -1,4 +1,4 @@
-#!/bin/bash
+cd #!/bin/bash
 
 # Declare large_trees variable outside the function
 large_trees=0
